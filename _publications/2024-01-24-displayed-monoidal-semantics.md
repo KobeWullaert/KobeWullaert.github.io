@@ -10,3 +10,5 @@ date: 2024-01-09
 venue: 'CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs'
 paperurl: 'https://doi.org/10.1145/3636501.3636956'
 ---
+
+J.w.w., [B. Ahrens](https://benediktahrens.gitlab.io/), [R. Matthes](https://www.irit.fr/~Ralph.Matthes/), and [N. v.d. Weide](https://nmvdw.github.io/)
