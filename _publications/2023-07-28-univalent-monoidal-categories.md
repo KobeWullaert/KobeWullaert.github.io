@@ -9,5 +9,4 @@ excerpt: 'This paper proves that the bicategory of monoidal categories is unival
 date: 2023-07-28
 venue: 'TYPES 2022 post-proceedings'
 paperurl: 'https://doi.org/10.4230/LIPIcs.TYPES.2022.15'
-citation: ''
 ---

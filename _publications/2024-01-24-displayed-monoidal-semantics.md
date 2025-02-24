@@ -9,5 +9,4 @@ excerpt: 'We present a formalization of different categorical structures used to
 date: 2024-01-09
 venue: 'CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs'
 paperurl: 'https://doi.org/10.1145/3636501.3636956'
-citation: ''
 ---
