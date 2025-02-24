@@ -35,3 +35,4 @@ The course repository for "Category Theory for Programmers" is maintained at [Gi
 
 # Others
 - Workshop on computational programming [22/04/2024]
+- Tutoraatproject [2015/2016;2016/2017]
