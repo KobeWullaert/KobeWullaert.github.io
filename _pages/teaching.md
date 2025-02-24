@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching activities at Delft University of Technology
-
-## Master courses
+# Master courses at [TUDelft](https://www.tudelft.nl/)
 
 Academic year 2021/2022:
 - Software verification 
@@ -22,15 +20,15 @@ Academic year 2024/2025
 
 The course repository for "Category Theory for Programmers" is maintained at [GitHub; B. Ahrens.](https://github.com/benediktahrens/CT4P/).
 
-## (co)Supervision
+# (co)Supervision
 
-### Bachelor
+## Bachelor
 
 - Research project: Literature Survey on Homotopy Type Theory [2021/2022; 2022/2023]
 
-### Master
+## Master
 
-- [2023/2024] Niyousha Najmaei: The Internal Language of Comprehension Categories
+- [2023/2024] [Niyousha Najmaei](https://niyoushanajmaei.github.io/): The Internal Language of Comprehension Categories
 - [2022/2024] Arnoud van der Leer: Universal Algebra, Univalent foundations and the Untyped lambda-calculus
 
 # Others
