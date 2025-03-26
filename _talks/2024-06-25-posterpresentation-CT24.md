@@ -10,4 +10,4 @@ location: "Santiago De Compostela, Spain"
 ---
 
 A poster presentation given at the [International Category Theory Conference](https://www.usc.gal/regaca/ct2024/).
-The poster can be found [here]{https://kobewullaert.github.io/files/ICategoryTheoryConference2024.pdf}
+The poster can be found [here](https://kobewullaert.github.io/files/ICategoryTheoryConference2024.pdf).
