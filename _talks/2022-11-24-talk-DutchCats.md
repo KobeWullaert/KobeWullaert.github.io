@@ -11,4 +11,4 @@ location: "Delft, Netherlands"
 
 A seminar talk at [Dutch Categories And Types Seminar](https://dutchcats.github.io/).
 
-The slides can be found at (https://dutchcats.github.io/2022-11-24/wullaert_20221124.pdf).
+The slides can be found [here]{https://dutchcats.github.io/2022-11-24/wullaert_20221124.pdf}.
