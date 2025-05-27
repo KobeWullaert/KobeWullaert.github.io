@@ -24,7 +24,7 @@ The course repository for "Category Theory for Programmers" is maintained at [Gi
 
 ## Bachelor
 
-- Research project: Literature Survey on Homotopy Type Theory [2021/2022; 2022/2023]
+- Research project: Literature Survey on Homotopy Type Theory [2021/2022; 2022/2023; 2024/2025]
 
 ## Master
 
